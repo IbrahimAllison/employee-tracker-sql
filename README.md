@@ -49,6 +49,10 @@ Inspiration and codes from: https://github.com/cynthiamory/EmployBase
 
 Instructional team
 
+## Future Developments
+
+I plan to expand the application to accommodate a more detail data. I also plan create a unit testing for the application. 
+
 MySQL and Inquirere documentations.
 
 ## Link to the Walkthrough Video
