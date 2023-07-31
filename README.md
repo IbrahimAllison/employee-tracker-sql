@@ -27,8 +27,8 @@ Inspiration and codes from: https://github.com/cynthiamory/EmployBase
 
 Instructional team
 
-## Link to the Deployed Application
-The application is deployed to 
+## Link to the Walkthrough Video
+Here is the link to the application's walkthrough video: https://drive.google.com/file/d/16XUv0EmO4E-KS5jFcLnILLbgmRBXB5gA/view?usp=sharing
 
-Screenshot of the Deployed Application
+
 
