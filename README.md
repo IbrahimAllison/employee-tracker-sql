@@ -49,6 +49,8 @@ Inspiration and codes from: https://github.com/cynthiamory/EmployBase
 
 Instructional team
 
+MySQL and Inquirere documentations.
+
 ## Link to the Walkthrough Video
 Here is the link to the application's walkthrough video: https://drive.google.com/file/d/16XUv0EmO4E-KS5jFcLnILLbgmRBXB5gA/view?usp=sharing
 
