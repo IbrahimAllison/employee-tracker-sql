@@ -6,12 +6,12 @@ USE employee_db;
 -- The codes in line 7 through 10 create Table for the Department.
 CREATE TABLE department (
 id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-name VARCHAR(50) NOT NULL
+name VARCHAR(30) NOT NULL
 );
 
 CREATE TABLE roles (
 id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,
-title VARCHAR(50) NOT NULL,
+title VARCHAR(30) NOT NULL,
 salary DECIMAL(10,2),
 department_id INT,
 FOREIGN KEY (department_id)
